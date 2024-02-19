@@ -1,0 +1,29 @@
+.thx-container {
+    text-align: center;
+}
+
+.thx-container h2 {
+    margin-bottom: 1rem;
+}
+
+.thx-container p {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.thx-container h3 {
+    margin: 1rem 0;
+}
+
+.review-data {
+    text-align: left;
+}
+
+.review-data svg {
+    margin-left: 5px;
+    font-size: 1.6rem;
+}
+
+span {
+    font-weight: bold;
+}

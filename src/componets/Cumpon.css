@@ -1,0 +1,41 @@
+p {
+    text-align: center;
+    opacity: 0.8;
+    font-style: italic;
+    margin-bottom: 1.5rem;
+    word-spacing: 3px;
+}
+span {
+    font-weight: bold;
+}
+
+h3 {
+   text-align: center;
+   font-size: 2rem;
+   margin-bottom: 1.5rem;
+}
+
+#cupom_code {
+    text-align: center;
+    font-size: 3rem;
+    color: #7076f4;
+    border: 2px solid #dfdfdf;
+    border-radius: 40px;
+}
+
+#copy-btn {
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+    margin: 2rem auto;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    border-radius: 3px;
+    background-color: #dfdfdf;
+    cursor: pointer;
+    border: none;
+    transition: 0.3s;
+}
+#copy-btn:hover {
+    background-color: #cfcfcf;
+}
